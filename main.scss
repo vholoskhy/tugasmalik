@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url(./Weekend-GIF-Vette-Museum.webp);
+  z-index: 000;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-size: cover;
+  .hero {
+    width: 100%;
+  }
+  .hero h1 {
+    width: 800px;
+    font-size: 3cm;
+    color: white;
+    border-bottom: 5px solid black;
+  }
+}
